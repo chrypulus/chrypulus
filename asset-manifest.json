@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chrypulus/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chrypulus/static/js/main.2286a996.chunk.js",
+    "main.js.map": "/chrypulus/static/js/main.2286a996.chunk.js.map",
+    "runtime-main.js": "/chrypulus/static/js/runtime-main.78521d32.js",
+    "runtime-main.js.map": "/chrypulus/static/js/runtime-main.78521d32.js.map",
+    "static/js/2.49aa9113.chunk.js": "/chrypulus/static/js/2.49aa9113.chunk.js",
+    "static/js/2.49aa9113.chunk.js.map": "/chrypulus/static/js/2.49aa9113.chunk.js.map",
+    "index.html": "/chrypulus/index.html",
+    "precache-manifest.ab8e21030875e24b3b589a5de79a3eee.js": "/chrypulus/precache-manifest.ab8e21030875e24b3b589a5de79a3eee.js",
+    "service-worker.js": "/chrypulus/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/chrypulus/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.49aa9113.chunk.js.LICENSE.txt": "/chrypulus/static/js/2.49aa9113.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chrypulus/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78521d32.js",
+    "static/js/2.49aa9113.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2286a996.chunk.js"
+  ]
+}
